@@ -14,7 +14,7 @@
 <!-- <h3>About me,</h3> -->
 <h1 align="center"> About me</h1>
 
-I am <b>Kiran Amin Panjwani</b>, a <b>Computer Science</b> graduate from DHA Suffa University. I began my career as a web designer and front-end developer and am now working in the DevOps domain. Based in Karachi, Pakistan, I am currently focused on learning and sharing concepts related to DevOps, including Azure and AWS.⚡
+I am <b>Muhammad Muneeb</b>, a <b>Computer Science</b> graduate from DHA Suffa University. I began my career as a Data Engineer  and am now working in the Data domain. Based in Karachi, Pakistan, I am currently focused on learning and sharing concepts related to DevOps, including Azure and AWS.⚡
 
 > ### I firmly believe in <b>Learning</b>, <b>Building</b> new things, and <b>Contributing</b> to worthwhile real-world projects.❤
 
